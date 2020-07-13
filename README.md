@@ -9,3 +9,6 @@
 ### :office: Current Position 
 
 -  Currently I'm proudly working as a software enginner at [Escale](https://github.com/escaletech), helping the company in its mission to redesign buying experiences in Brazil.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
