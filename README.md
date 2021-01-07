@@ -10,14 +10,4 @@
 
 ### :office: Current Position 
 
--  Currently I'm proudly working as a software enginner at [Escale](https://github.com/escaletech), helping the company in its mission to redesign buying experiences in Brazil.
-
-### :bar_chart: How I spent my time for the last 7 days?
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<sub>Data automatically fetched from [WakaTime](https://wakatime.com/) :heart:</sub>
+-  Currently I'm proudly working as a software enginner at [iFood](https://github.com/ifood) :heart:
