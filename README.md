@@ -10,4 +10,4 @@
 
 ### :office: Current Position 
 
--  Currently I'm proudly working as a software enginner at [iFood](https://github.com/ifood) :heart:
+-  Currently I'm proudly working as a software enginner at [Latitud](https://github.com/latitud) :heart:
